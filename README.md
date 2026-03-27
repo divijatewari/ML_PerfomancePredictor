@@ -170,5 +170,6 @@ Indira Gandhi Delhi Technical University for Women
 
 GitHub: https://github.com/divijatewari
 <img width="1728" height="926" alt="image" src="https://github.com/user-attachments/assets/31fcf2a8-454d-46c0-9772-23d3602be9e1" />
-<img width="789" height="675" alt="image" src="https://github.com/user-attachments/assets/005ca1be-a9e7-4d6f-a9d5-6cc568f795b6" />
+<img width="954" height="741" alt="image" src="https://github.com/user-attachments/assets/d1d2e364-b5c3-4cd0-a12e-155f336ea458" />
+
 
